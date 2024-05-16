@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  padding: 56px 0;
+}
+
+textarea {
+  resize: none;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+}
+
+button {
+  margin-top: 20px;
+}
